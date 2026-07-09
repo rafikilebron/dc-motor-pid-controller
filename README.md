@@ -6,6 +6,11 @@ The project demonstrates the integration of embedded software, object-oriented p
 
 ---
 
+## DEMO (mp4)
+[DC Motor PID Controller](https://github.com/rafikilebron/dc-motor-pid-controller)
+
+---
+
 # Features
 
 - PID position controller running on the microcontroller
