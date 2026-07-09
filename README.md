@@ -7,7 +7,7 @@ The project demonstrates the integration of embedded software, object-oriented p
 ---
 
 ## DEMO (mp4)
-[DC Motor PID Controller](https://github.com/rafikilebron/dc-motor-pid-controller)
+[DC Motor PID Controller](https://www.youtube.com/shorts/Vag89rl0xiE)
 
 ---
 
