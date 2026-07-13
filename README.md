@@ -1,4 +1,4 @@
-# DC Motor Position Control using PID and UART
+# DC Motor Position Control using PID and UART(ESP32)
 
 A complete embedded control system for **DC motor position control** using a **PID controller**, featuring a custom **UART communication protocol** and a **Python desktop GUI** built with **PySide6**.
 
